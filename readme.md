@@ -7,5 +7,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/carolina-dos-anjos-figueiredo-bb39b818b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carolina-dos-anjos/" height="30" width="40" /></a>
 </p>
-
+<br></br>
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carolanjos&layout=compact&theme=dracula)
