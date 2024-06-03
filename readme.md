@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou a Carol</h1>
 <h3 align="center">Trainee de TI e estudante de ADS (Análise e Desenvolvimento de Sistemas) no Instituto Federal (IFSP)</h3>
 
-📫 Meu e-mail é *carolinadosanjos01@gmail.com**
+📫 Meu e-mail é *carolinadosanjos01@gmail.com*
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
