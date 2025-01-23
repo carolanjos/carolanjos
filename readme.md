@@ -9,7 +9,6 @@
 ### 🌐 Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/-Carolina%20dos%20Anjos-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/carolina-dos-anjos-figueiredo-bb39b818b)
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
 
 ---
 
@@ -25,7 +24,6 @@
 ### 💼 Projetos em Destaque
 
 - [Sistema de Agendamento de Consultas Médicas](https://github.com/carolanjos/tcc-frontend): Projeto de TCC para simplificar o agendamento de consultas médicas.
-- [Portfolio em Vue.js](https://github.com/seu-outro-repositorio): Meu portfólio pessoal com projetos e experiências.
 
 ---
 
