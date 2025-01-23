@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou a Carol</h1>
 <h3 align="center">Trainee de TI e estudante de ADS no Instituto Federal (IFSP)</h3>
 
-- 🌱 Atualmente, estou trabalhando e me desenvolvendo em **Vue.js, JavaScript e TypeScript**
+- 🌱 Atualmente, estou trabalhando com Desenvolvimento Front-end, me desenvolvendo em **Vue.js, JavaScript e TypeScript**
 - 📫 Meu e-mail é: **carolinadosanjos01@gmail.com**  
 
 ---
