@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou a Carol</h1>
-<h3 align="center">Desenvolvedora Front-end</h3>
+<h3 align="center">Analista de Sistemas Júnior</h3>
 
 - 🌱 Atualmente, estou trabalhando com Desenvolvimento Front-end, me desenvolvendo em **Vue.js, JavaScript e TypeScript**
 - 📫 Meu e-mail é: **carolinadosanjos01@gmail.com**  
@@ -11,8 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/-Carolina%20dos%20Anjos-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/carolina-dos-anjos-figueiredo-bb39b818b)
 
 ---
-
-### 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolanjos&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas da Carol" />
