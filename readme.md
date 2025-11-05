@@ -13,7 +13,6 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolanjos&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas da Carol" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolanjos&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
 
