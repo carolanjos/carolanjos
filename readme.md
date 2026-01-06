@@ -3,7 +3,7 @@
 **Analista de Sistemas Júnior | Front-end Developer**
 
 Desenvolvedora front-end com foco em **Vue.js**, **JavaScript** e **TypeScript**.  
-Formada em **Análise e Desenvolvimento de Sistemas**, com experiência no desenvolvimento de interfaces, consumo de APIs e boas práticas de código.
+Formada em **Análise e Desenvolvimento de Sistemas**.
 
 📧 **Email:** carolinadosanjos01@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/carolina-dos-anjos-figueiredo-bb39b818b](https://linkedin.com/in/carolina-dos-anjos-figueiredo-bb39b818b)
