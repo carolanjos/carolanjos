@@ -22,4 +22,4 @@ Formada em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal (IF
 
 ## 💻 Linguagens mais utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolanjos&layout=compact&theme=tokyonight)
+<img src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
