@@ -19,3 +19,6 @@ Formada em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal (IF
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 ---
+## 💻 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
