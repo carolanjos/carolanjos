@@ -19,7 +19,3 @@ Formada em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal (IF
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 ---
-
-## 💻 Linguagens mais utilizadas
-
-<img src="./profile/top-langs.svg" alt="Linguagens mais utilizadas" />
