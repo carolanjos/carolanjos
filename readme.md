@@ -21,4 +21,4 @@ Formada em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal (IF
 ---
 ## 💻 Linguagens mais utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolanjos&layout=compact&theme=tokyonight)
