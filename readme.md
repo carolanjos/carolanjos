@@ -1,22 +1,37 @@
-# Carolina dos Anjos Figueiredo
+<div align="center">
 
-**Analista de Sistemas Júnior | Front-end Developer**
+# Olá, eu sou a Carolina 👋
 
-Desenvolvedora front-end trabalhando com **Vue.js**, **JavaScript** e **TypeScript**.  
-Formada em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal (IFSP).
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4FC08D&center=true&vCenter=true&width=500&lines=Front-end+Developer;Vue.js+%7C+JavaScript+%7C+TypeScript;Criando+interfaces+com+carinho+%F0%9F%92%9A" alt="Typing SVG" />
 
-📧 **Email:** carolinadosanjos01@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/carolina-dos-anjos-figueiredo-bb39b818b](https://linkedin.com/in/carolina-dos-anjos-figueiredo-bb39b818b)
+**Analista de Sistemas Júnior** na área de front-end, formada em **Análise e Desenvolvimento de Sistemas** pelo **IFSP**.
+
+<a href="https://linkedin.com/in/carolina-dos-anjos-figueiredo-bb39b818b">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:carolinadosanjos01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-4FC08D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+## 💻 Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,git&perline=6" alt="Tecnologias" />
+</div>
 
 ---
 
-## Tecnologias
+## 📊 Estatísticas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carolanjos&show_icons=true&theme=transparent&hide_border=true&title_color=4FC08D&icon_color=4FC08D&text_color=8b949e" alt="Estatísticas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolanjos&layout=compact&theme=transparent&hide_border=true&title_color=4FC08D&text_color=8b949e" alt="Linguagens mais usadas" />
+</div>
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolanjos&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=carolanjos&theme=transparent&hide_border=true&ring=4FC08D&fire=4FC08D&currStreakLabel=4FC08D&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e" alt="Streak" />
+</div>
